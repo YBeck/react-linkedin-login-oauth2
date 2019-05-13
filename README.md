@@ -160,3 +160,7 @@ No parameters needed
 ## Known issue
 
 - `react-linkedin-oauth2` currently doesn't support IE 11.`
+
+## Credit
+
+Based on react-linkedin-login-oauth2 by Hung Viet Nguyen
